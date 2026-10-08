@@ -273,13 +273,12 @@ const PORTFOLIO = {
   {
    "id": "zimeiti",
    "no": "04",
-   "title": "个人自媒体 · 内容创作",
+   "title": "个人自媒体 · 公众号与小红书",
    "period": "2025.03 – 2025.12",
    "role": "内容运营",
    "tags": [
     "运营",
-    "图文",
-    "视频"
+    "图文"
    ],
    "summary": "围绕播客、文学领域独立完成选题、文案、封面设计、发布与数据复盘，打造 18W+ 曝光爆款笔记，账号累计曝光 50W+。",
    "groups": [
@@ -346,22 +345,7 @@ const PORTFOLIO = {
        "ratio": 0.461
       }
      ]
-    }    ,
-    {
-     "name": "口播短视频",
-     "note": "脚本 / 出镜 / 剪辑独立完成",
-     "type": "视频",
-     "items": [
-      {
-       "kind": "video",
-       "src": "assets/video/zimeiti/koubo-zijian.mp4",
-       "poster": "assets/img/posters/koubo-zijian.jpg",
-       "title": "双节大促口播视频",
-       "ratio": 0.562
-      }
-     ]
     }
-
    ]
   },
   {
