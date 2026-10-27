@@ -630,7 +630,7 @@ const PORTFOLIO = {
    "tags": [
     "视频"
    ],
-   "summary": "影视混剪成片等剪辑作品。",
+   "summary": "影视混剪、创意短片等剪辑作品。",
    "groups": [
     {
      "name": "剪辑成片",
@@ -643,6 +643,20 @@ const PORTFOLIO = {
        "poster": "assets/img/posters/yingshi-hunjian.jpg",
        "title": "影视剪辑混剪成片",
        "ratio": 1.85
+      }
+     ]
+    },
+    {
+     "name": "创意短片",
+     "note": "概念短片 / 视听表达",
+     "type": "视频",
+     "items": [
+      {
+       "kind": "video",
+       "src": "assets/video/jianji/jiangzao.mp4",
+       "poster": "assets/img/posters/jiangzao.jpg",
+       "title": "《降噪》创意短片",
+       "ratio": 0.562
       }
      ]
     }
